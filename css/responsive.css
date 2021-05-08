@@ -1,0 +1,915 @@
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .head-top-contact ul li a span {
+        display: none !important
+    }
+
+    #hero .hero-item h3 {
+        font-size: 50px !important
+    }
+
+    #hero .hero-item h4 {
+        font-size: 20px !important
+    }
+
+    #hero .hero-item {
+        padding: 180px 0 100px 0 !important
+    }
+
+    #hero .hero-item .contact-btn a {
+        padding: 15px 25px !important;
+        font-size: 16px !important
+    }
+
+    #hero .hero-item .project-btn a {
+        font-size: 16px !important
+    }
+
+    #business .business-service .business-shape-icon {
+        left: 20px !important
+    }
+
+    #business .business-service {
+        padding: 20px 70px 15px 180px !important;
+        margin-top: 30px !important
+    }
+}
+
+@media only screen and (min-width:570px) and (max-width:767px) {
+    .head-top-social {
+        margin-top: 30px !important
+    }
+
+    #mobile-search {
+        margin-right: 5px !important;
+        border-radius: 4px !important;
+        margin-left: auto !important
+    }
+
+    #mobile-search:hover {
+        background: #01155273
+    }
+
+    #mobile-search a {
+        border-radius: 4px !important;
+        padding: 7px 10px !important
+    }
+
+    #mobile-search a i {
+        font-size: 24px !important
+    }
+
+    #mobile-search a::before {
+        height: 0 !important;
+        width: 0 !important;
+        background: 0 0 !important
+    }
+
+    #mobile-search a:hover::before {
+        height: 0 !important;
+        width: 0 !important;
+        background: 0 0 !important
+    }
+
+    #mobile-search .search {
+        background: #050038f0 !important;
+        min-width: 350px !important;
+        right: -93% !important
+    }
+
+    #mobile-search .search button {
+        top: 2px !important
+    }
+
+    #mobile-search .search .search-clear {
+        top: 2px !important
+    }
+
+    #mobile-search .search button i {
+        font-size: 18px !important
+    }
+
+    #mobile-search .search input {
+        font-size: 14px !important;
+        width: 75% !important;
+        margin: 3px 30px 0 35px !important
+    }
+
+    #mobile-search .search input::placeholder {
+        font-size: 14px !important
+    }
+
+    #hero .hero-item h3 {
+        font-size: 33px !important
+    }
+
+    #hero .hero-item h4 {
+        font-size: 14px !important;
+        margin-bottom: 35px !important
+    }
+
+    #hero .hero-item {
+        padding: 160px 0 60px 0 !important
+    }
+
+    #hero .hero-item .contact-btn {
+        margin-top: 15px !important
+    }
+
+    #hero .hero-item .check-btn {
+        margin-top: 15px !important
+    }
+
+    #hero .hero-item .check-btn a {
+        font-size: 14px !important
+    }
+
+    #hero .hero-item .contact-btn a {
+        padding: 10px 15px !important;
+        font-size: 14px !important
+    }
+
+    #hero .hero-item .project-btn a {
+        font-size: 14px !important
+    }
+
+    #about .about-content {
+        margin-top: 15px !important;
+        margin-bottom: 50px !important
+    }
+
+    #about .about-content .some-text h3 {
+        text-align: center !important
+    }
+
+    #about .about-content .some-text p {
+        text-align: center !important
+    }
+
+    #about .about-content ul li {
+        display: block !important
+    }
+
+    #business {
+        margin: 0 !important
+    }
+
+    #business .business-service .business-shape-icon {
+        left: 20px !important
+    }
+
+    #business .business-service {
+        padding: 20px 70px 15px 160px !important;
+        margin-top: 30px !important
+    }
+
+    #counter .counter-about {
+        text-align: center !important
+    }
+
+    #counter .count {
+        text-align: center !important
+    }
+
+    .team-social {
+        left: -2% !important
+    }
+
+    #footer .subscribe h3 {
+        text-align: center
+    }
+
+    #footer .footer-inner-area .ft-logo {
+        margin: 50px auto !important
+    }
+
+    #footer .footer-inner-area .footer-para p {
+        text-align: center !important
+    }
+
+    #footer .footer-inner-area .footer-para .purchase-btn {
+        text-align: center !important
+    }
+}
+
+@media only screen and (max-width:569px) {
+    .head-top-social {
+        margin-top: 30px !important
+    }
+
+    #header .navbar .navbar-brand img {
+        width: 130px !important
+    }
+
+    .mobile-menu li a {
+        font-size: 16px !important
+    }
+
+    .mobile-menu ul li a {
+        font-size: 14px !important
+    }
+
+    #menu-btn {
+        margin-right: 0px !important
+    }
+
+    #mobile-search {
+        margin-right: 5px !important;
+        border-radius: 4px !important;
+        margin-left: auto !important
+    }
+
+    #mobile-search:hover {
+        background: #01134985
+    }
+
+    #mobile-search a {
+        border-radius: 4px !important;
+        padding: 7px 10px !important
+    }
+
+    #mobile-search a i {
+        font-size: 24px !important
+    }
+
+    #mobile-search a::before {
+        height: 0 !important;
+        width: 0 !important;
+        background: 0 0 !important
+    }
+
+    #mobile-search a:hover::before {
+        height: 0 !important;
+        width: 0 !important;
+        background: 0 0 !important
+    }
+
+    #mobile-search .search {
+        background: #050038f0 !important;
+        min-width: 300px !important;
+        right: -93% !important
+    }
+
+    #mobile-search .search button {
+        top: 2px !important
+    }
+
+    #mobile-search .search .search-clear {
+        top: 2px !important
+    }
+
+    #mobile-search .search button i {
+        font-size: 18px !important
+    }
+
+    #mobile-search .search input {
+        font-size: 14px !important;
+        width: 75% !important;
+        margin: 3px 30px 0 35px !important
+    }
+
+    #mobile-search .search input::placeholder {
+        font-size: 14px !important
+    }
+
+    #hero .hero-item h3 {
+        font-size: 28px !important
+    }
+
+    #hero .hero-item h4 {
+        font-size: 14px !important;
+        margin-bottom: 35px !important
+    }
+
+    #hero .hero-item {
+        padding: 160px 0 60px 0 !important
+    }
+
+    #hero .hero-item .contact-btn {
+        margin-top: 15px !important
+    }
+
+    #hero .hero-item .check-btn {
+        margin-top: 30px !important
+    }
+
+    #hero .hero-item .check-btn a {
+        font-size: 14px !important
+    }
+
+    #hero .hero-item .contact-btn a {
+        padding: 10px 15px !important;
+        font-size: 14px !important;
+        text-align: left
+    }
+
+    #hero .hero-item .project-btn a {
+        font-size: 14px !important
+    }
+
+    #service .service-card.service-bg h3 {
+        font-size: 36px !important
+    }
+
+    #counter-slider .slider-text h3 {
+        font-size: 28px !important;
+        padding-bottom: 15px !important
+    }
+
+    #counter-slider .counter-slide-bg-1,
+    #counter-slider .counter-slide-bg-2,
+    #counter-slider .counter-slide-bg-3 {
+        min-height: 380px !important
+    }
+
+    #counter-slider .slider-text p {
+        font-size: 18px !important
+    }
+
+    #counter .counter-about h3 {
+        font-size: 36px !important
+    }
+
+    #counter .count h3 {
+        font-size: 40px !important
+    }
+
+    #counter .count h3 span {
+        font-size: 60px !important
+    }
+
+    #counter .count p {
+        font-size: 20px !important
+    }
+
+    #about .about-content {
+        margin-top: 15px !important;
+        margin-bottom: 50px !important
+    }
+
+    #about .about-content .some-text h3 {
+        font-size: 30px !important;
+        text-align: center !important
+    }
+
+    #about .about-content .some-text p {
+        font-size: 16px !important;
+        text-align: center !important
+    }
+
+    #about .about-content ul li {
+        font-size: 14px !important;
+        display: block !important
+    }
+
+    #about .about-content .about-btn {
+        margin-top: 30px !important;
+        width: 100% !important;
+        text-align: center !important
+    }
+
+    #about .about-content .about-btn a {
+        padding: 12px 30px !important;
+        font-size: 16px !important
+    }
+
+    #about .about-content .contact-btn {
+        margin-top: 30px !important;
+        width: 100% !important;
+        text-align: center !important
+    }
+
+    #about .about-content .contact-btn a {
+        padding: 10px 25px !important;
+        font-size: 16px !important
+    }
+
+    #tab .tab-details h3 {
+        font-size: 28px !important;
+        text-align: center !important
+    }
+
+    #tab .tab-details h5 {
+        font-size: 16px !important;
+        text-align: center !important
+    }
+
+    #tab .tab-details .background-icon {
+        text-align: center !important
+    }
+
+    #tab .tab-details p {
+        font-size: 16px !important
+    }
+
+    .nav-tabs .nav-link {
+        padding: 5px 0 !important
+    }
+
+    #work {
+        padding-top: 0 !important
+    }
+
+    #work .mt-70 {
+        margin-top: 0 !important
+    }
+
+    #work .mt-n70 {
+        margin-top: 0 !important
+    }
+
+    #work .work-card {
+        margin-top: 15px !important;
+        margin-bottom: 0 !important
+    }
+
+    #work .work-content h5 {
+        font-size: 16px !important;
+        margin-bottom: 15px !important;
+        text-align: center !important
+    }
+
+    #work .work-content h3 {
+        font-size: 28px !important;
+        margin-bottom: 30px !important;
+        text-align: center !important
+    }
+
+    #work .work-content p {
+        font-size: 16px !important;
+        margin-bottom: 30px !important;
+        text-align: center !important
+    }
+
+    #work .work-about ul li {
+        padding: 0 !important
+    }
+
+    #business {
+        margin: 0 !important
+    }
+
+    #business .business-service .business-shape-icon {
+        left: 40% !important;
+        top: -10% !important
+    }
+
+    #business .business-service {
+        padding: 100px 15px 0 15px !important;
+        margin-top: 60px !important;
+        text-align: center
+    }
+
+    #blog {
+        margin: 0 !important
+    }
+
+    #blog .blog-heading {
+        padding-top: 30px !important;
+        padding-bottom: 15px !important
+    }
+
+    #blog .blog-heading p {
+        font-size: 16px !important
+    }
+
+    #blog .blog-heading h3 {
+        font-size: 28px !important;
+        margin-bottom: 30px !important
+    }
+
+    #team {
+        padding-top: 70px !important
+    }
+
+    #team .company p {
+        font-size: 16px !important;
+        text-align: center !important;
+        margin-bottom: 15px !important
+    }
+
+    #team .company h3 {
+        font-size: 28px !important;
+        text-align: center !important
+    }
+
+    .team-social {
+        left: -4% !important
+    }
+
+    #counter .counter-about {
+        text-align: center !important
+    }
+
+    #counter .count {
+        text-align: center !important
+    }
+
+    #footer .subscribe h3 {
+        font-size: 20px !important;
+        text-align: center
+    }
+
+    #footer .footer-inner-area .ft-logo {
+        margin: 50px auto !important
+    }
+
+    #footer .footer-inner-area .footer-para p {
+        text-align: center !important
+    }
+
+    #footer .footer-inner-area .footer-para .purchase-btn {
+        text-align: center !important
+    }
+
+    #footer .footer-inner-area .footer-link {
+        margin: 15px 0 !important;
+        text-align: center !important
+    }
+
+    #footer .footer-inner-area .footer-para {
+        padding: 0 30px !important
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .about-counter .count h3 {
+        text-align: center !important
+    }
+
+    .about-counter .count p {
+        text-align: center !important
+    }
+
+    .about-counter {
+        top: 7% !important
+    }
+
+    #history .history-item span {
+        left: -15% !important
+    }
+}
+
+@media only screen and (min-width:570px) and (max-width:767px) {
+    #about .about-content .some-text h4 {
+        text-align: center !important;
+        font-size: 16px !important
+    }
+
+    #about .about-content .some-text h3 {
+        font-size: 28px !important;
+        text-align: center;
+        margin-bottom: 30px !important
+    }
+
+    #about {
+        margin-top: 50px !important
+    }
+
+    #about .about-content .some-text p {
+        font-size: 16px !important
+    }
+
+    .about-counter .count h3 {
+        font-size: 30px !important;
+        text-align: center !important
+    }
+
+    .about-counter .count h3 span {
+        font-size: 50px !important
+    }
+
+    .about-counter .count p {
+        font-size: 20px !important;
+        text-align: center !important
+    }
+
+    #particles-js {
+        position: unset !important;
+        background: #000 !important;
+        height: initial !important;
+        padding: 25px 0 !important
+    }
+
+    #particles-js .about-counter {
+        position: unset !important
+    }
+}
+
+@media only screen and (max-width:569px) {
+    #about-hero .item-content h3 {
+        font-size: 28px !important
+    }
+
+    #about-hero .item-content p {
+        font-size: 16px !important
+    }
+
+    #about .about-content .some-text h4 {
+        text-align: center !important;
+        font-size: 16px !important
+    }
+
+    #about .about-content .some-text h3 {
+        font-size: 28px !important;
+        text-align: center;
+        margin-bottom: 30px !important
+    }
+
+    #about {
+        margin-top: 30px !important
+    }
+
+    #about .about-content .some-text p {
+        font-size: 16px !important
+    }
+
+    #particles-js {
+        position: unset !important;
+        background: #000 !important;
+        height: initial !important;
+        padding: 25px 0 !important
+    }
+
+    #particles-js .about-counter {
+        position: unset !important
+    }
+
+    .about-counter .count h3 {
+        font-size: 28px !important;
+        text-align: center !important
+    }
+
+    .about-counter .count h3 span {
+        font-size: 38px !important
+    }
+
+    .about-counter .count p {
+        font-size: 18px !important;
+        text-align: center !important
+    }
+
+    #history .history-item {
+        padding: 30px 0 50px 30px !important
+    }
+}
+
+@media only screen and (min-width:570px) and (max-width:767px) {
+    #price .price-heading {
+        margin-bottom: 30px !important
+    }
+
+    #price .price-heading p {
+        font-size: 16px !important
+    }
+
+    #price .price-heading h3 {
+        font-size: 28px !important;
+        margin-bottom: 30px !important
+    }
+
+    #price .price-heading h3 span {
+        font-size: 28px !important;
+        margin-bottom: 30px !important
+    }
+
+    #price .price-heading span {
+        font-size: 16px !important
+    }
+
+    #work {
+        padding: 0 !important
+    }
+
+    #work .work-content h5 {
+        font-size: 16px !important;
+        margin-bottom: 15px !important
+    }
+
+    #work .work-content h3 {
+        font-size: 28px !important;
+        margin-bottom: 30px !important
+    }
+
+    #work .work-content p {
+        font-size: 16px !important;
+        margin-bottom: 30px !important
+    }
+
+    #work .work-about ul li {
+        padding: 0 !important
+    }
+}
+
+@media only screen and (max-width:569px) {
+    #service-hero .item-content h3 {
+        font-size: 28px !important
+    }
+
+    #service-hero .item-content p {
+        font-size: 16px !important
+    }
+
+    #price .price-heading h3 {
+        font-size: 28px !important;
+        margin-bottom: 30px !important
+    }
+
+    #price .price-heading h3 span {
+        font-size: 28px !important;
+        margin-bottom: 30px !important
+    }
+
+    #price .price-heading p {
+        font-size: 16px !important;
+        margin-bottom: 15px !important
+    }
+
+    #price .price-heading span {
+        font-size: 16px !important
+    }
+
+    #price .price-heading {
+        margin-bottom: 30px !important
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    #question .question-top-area p {
+        font-size: 17px !important;
+        margin-bottom: 10px !important
+    }
+
+    #question .question-top-area h3 {
+        font-size: 30px !important;
+        margin-bottom: 30px !important
+    }
+
+    #question .question-top-area h3 span {
+        font-size: 30px !important;
+        margin-bottom: 30px !important
+    }
+
+    #question .question-top-area>span {
+        font-size: 17px !important
+    }
+
+    #advertise .service-card p {
+        font-size: 14px !important
+    }
+
+    #advertise .service-card h4 {
+        font-size: 18px !important
+    }
+}
+
+@media only screen and (min-width:570px) and (max-width:767px) {
+    #question-hero .item-content h3 {
+        font-size: 30px !important
+    }
+
+    #question .question-top-area p {
+        font-size: 17px !important;
+        margin-bottom: 10px !important
+    }
+
+    #question .question-top-area h3 {
+        font-size: 30px !important;
+        margin-bottom: 30px !important
+    }
+
+    #question .question-top-area h3 span {
+        font-size: 30px !important;
+        margin-bottom: 30px !important
+    }
+
+    #question .question-top-area>span {
+        font-size: 17px !important
+    }
+}
+
+@media only screen and (max-width:569px) {
+    #question-hero .item-content h3 {
+        font-size: 28px !important
+    }
+
+    #question .question-top-area p {
+        font-size: 16px !important;
+        margin-bottom: 10px !important
+    }
+
+    #question .question-top-area h3 {
+        font-size: 28px !important;
+        margin-bottom: 30px !important
+    }
+
+    #question .question-top-area h3 span {
+        font-size: 28px !important;
+        margin-bottom: 30px !important
+    }
+
+    #question .question-top-area>span {
+        font-size: 16px !important
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    #page_blog .blog-page-content h4 a {
+        font-size: 26px !important
+    }
+
+    #page_blog .blog-page-content h4 {
+        margin-top: 30px !important
+    }
+}
+
+@media only screen and (min-width:570px) and (max-width:767px) {
+    #page_blog .blog-page-content h4 a {
+        font-size: 24px !important
+    }
+
+    #page_blog .blog-page-content h4 {
+        margin-top: 20px !important
+    }
+
+    #page_blog .blog-item .blog-img {
+        height: 450px !important
+    }
+}
+
+@media only screen and (max-width:569px) {
+    #blog-hero .item-content h3 {
+        font-size: 28px !important
+    }
+
+    #page_blog .blog-item .blog-img {
+        height: 450px !important
+    }
+
+    #page_blog .blog-page-content h4 {
+        margin-top: 20px !important
+    }
+
+    #page_blog .blog-page-content h4 a {
+        font-size: 26px !important
+    }
+}
+
+@media only screen and (min-width:570px) and (max-width:767px) {
+    #blog-hero .item-content h3 {
+        font-size: 28px !important
+    }
+}
+
+@media only screen and (max-width:569px) {
+    #blog-hero .item-content h3 {
+        font-size: 28px !important
+    }
+}
+
+@media only screen and (min-width:570px) and (max-width:767px) {
+    #shop-hero .item-content h3 {
+        font-size: 26px !important
+    }
+}
+
+@media only screen and (max-width:569px) {
+    #shop_card .card_head_rapper {
+        display: block !important
+    }
+
+    #shop_card .card_head_rapper p {
+        text-align: center !important
+    }
+
+    #shop-hero .item-content h3 {
+        font-size: 24px !important
+    }
+}
+
+@media only screen and (min-width:570px) and (max-width:767px) {
+    #contact-hero .item-content h3 {
+        font-size: 26px !important
+    }
+}
+
+@media only screen and (max-width:569px) {
+    #contact-hero .item-content h3 {
+        font-size: 24px !important
+    }
+
+    #contact-hero .item-content p {
+        font-size: 16px !important
+    }
+
+    #contact .contact-form-wrapper h3 {
+        font-size: 28px !important
+    }
+
+    #contact .contact-form-wrapper p {
+        font-size: 16px !important
+    }
+
+    #contact .support .support-option .details span {
+        font-size: 22px !important
+    }
+}
