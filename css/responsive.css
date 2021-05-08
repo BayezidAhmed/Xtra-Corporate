@@ -584,14 +584,10 @@
     }
 
     #particles-js {
-        position: unset !important;
-        background: #000 !important;
-        height: initial !important;
-        padding: 25px 0 !important
+        height: 550px !important;
     }
-
-    #particles-js .about-counter {
-        position: unset !important
+    .about-counter {
+        top:10% !important;
     }
 }
 
@@ -624,14 +620,10 @@
     }
 
     #particles-js {
-        position: unset !important;
-        background: #000 !important;
-        height: initial !important;
-        padding: 25px 0 !important
+        height: 450px !important;
     }
-
-    #particles-js .about-counter {
-        position: unset !important
+    .about-counter {
+        top:10% !important;
     }
 
     .about-counter .count h3 {
