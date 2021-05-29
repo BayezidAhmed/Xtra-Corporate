@@ -592,6 +592,9 @@
 }
 
 @media only screen and (max-width:569px) {
+ #question {
+        padding: 70px 0px !important ;
+    }
     #about-hero .item-content h3 {
         font-size: 28px !important
     }
